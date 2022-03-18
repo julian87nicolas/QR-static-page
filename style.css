@@ -33,7 +33,7 @@ body{
     border-radius: 0.5rem;
 }
 
-.schema h2{
+.schema h1{
     font-family: var(--sans);
     font-size: 1.5rem;
     font-weight: bold;
